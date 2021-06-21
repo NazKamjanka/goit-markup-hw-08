@@ -1,0 +1,29 @@
+.conect {
+  width: 206px;
+  height: 80px;
+  font-style: 14px;
+}
+.foter-con {
+  display: flex;
+  align-items: baseline;
+}
+.conect-social {
+  font-style: 14px;
+  color: var(--adres-color);
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.description__tool {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 270px;
+  height: 120px;
+  background-color: rgba(245, 244, 250, 1);
+  border-radius: 4px;
+  margin-bottom: 30px;
+}
+.texno-link {
+  display: block;
+  text-decoration: none;
+}
