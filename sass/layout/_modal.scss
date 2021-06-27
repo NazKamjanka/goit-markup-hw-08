@@ -23,6 +23,18 @@
   padding: 40px;
   background: #ffffff;
 }
+@media screen and (min-width: 480px) {
+  .modal {
+    width: 450px;
+    height: auto;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .modal {
+    width: 528px;
+  }
+}
 .modal-form-head {
   font-weight: 700;
   text-align: center;

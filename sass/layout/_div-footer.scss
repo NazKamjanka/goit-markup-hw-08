@@ -1,3 +1,26 @@
+.footer__form {
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (min-width: 768px) {
+  .footer__form {
+    width: 450px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .footer__form {
+    width: 570px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 93px;
+  }
+}
+
 .div-footer-social {
   display: flex;
   flex-direction: column;
@@ -27,7 +50,18 @@
     padding-left: 16px;
   }
 }
+@media screen and (min-width: 768px) {
+  .email-social {
+    width: 450px;
+  }
+}
 
+@media screen and (min-width: 1200px) {
+  .email-social {
+    width: 340px;
+    margin-right: 12px;
+  }
+}
 .butn-email {
   position: absolute;
   top: 107px;

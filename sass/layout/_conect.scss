@@ -3,6 +3,19 @@
   height: 80px;
   font-style: 14px;
 }
+@media screen and (min-width: 768px) {
+  .conect {
+    margin-left: 165px;
+    margin-top: 0;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .conect {
+    margin-left: 70px;
+    margin-bottom: 0;
+  }
+}
 .foter-con {
   display: flex;
   align-items: baseline;
@@ -12,6 +25,11 @@
   color: var(--adres-color);
   margin-bottom: 20px;
   text-transform: uppercase;
+}
+@media screen and (min-width: 1200px) {
+  .conect-social {
+    text-align: left;
+  }
 }
 .description__tool {
   display: flex;
