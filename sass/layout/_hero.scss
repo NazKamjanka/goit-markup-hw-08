@@ -4,7 +4,7 @@
   padding-bottom: 200px;
   background-color: rgba(196, 196, 196, 1);
   background: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-    url("../images/hero/bg.jpg");
+    url("./images/hero/bg.jpg");
   background-size: cover;
 }
 .hero {
@@ -22,13 +22,13 @@
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url("../images/imagess/hero/Hero-mobile@2x.jpg");
+      url("./images/hero/Hero-mobile@2x.jpg");
     background-image: linear-gradient(
         to right,
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url("../images/imagess/hero/Hero-mobile@2x.jpg");
+      url("./images/hero/Hero-mobile@2x.jpg");
   }
 }
 
@@ -41,13 +41,13 @@
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url("../images/imagess/hero/Hero-tablet.jpg");
+      url("./images/hero/Hero-tablet.jpg");
     background-image: linear-gradient(
         to right,
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url("../images/imagess/hero/Hero-tablet.jpg");
+      url("./images/hero/Hero-tablet.jpg");
   }
 }
 
@@ -63,13 +63,13 @@
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url("../images/imagess/hero/Hero-tablet@2x.jpg");
+      url("./images/hero/Hero-tablet@2x.jpg");
     background-image: linear-gradient(
         to right,
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url("../images/imagess/hero/Hero-tablet@2x.jpg");
+      url("./images/hero/Hero-tablet@2x.jpg");
   }
 }
 
@@ -82,13 +82,13 @@
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url("../images/imagess/hero/Hero-desktop.jpg");
+      url("./images/hero/Hero-desktop.jpg");
     background-image: linear-gradient(
         to right,
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url("../images/imagess/hero/Hero-desktop.jpg");
+      url("./images/hero/Hero-desktop.jpg");
   }
 }
 
@@ -104,13 +104,13 @@
         from(rgba(47, 48, 58, 0.4)),
         to(rgba(47, 48, 58, 0.4))
       ),
-      url("../images/imagess/hero/Hero-desktop@2x.jpg");
+      url("./images/hero/Hero-desktop@2x.jpg");
     background-image: linear-gradient(
         to right,
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url("../images/imagess/hero/Hero-desktop@2x.jpg");
+      url("./images/hero/Hero-desktop@2x.jpg");
   }
 }
 
