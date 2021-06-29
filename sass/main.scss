@@ -1,13 +1,8 @@
-// UTILS
 @import './utils/variables';
 @import './utils/visually-hidden';
-
-// BASE
 @import './base/common';
 @import './base/container';
 @import './base/section';
-
-// COMPONENTS
 @import './components/title';
 @import './components/social-list';
 @import './components/button';
@@ -17,8 +12,6 @@
 @import './components/backdrop';
 @import './components/modal-window';
 @import './components/modal-form';
-
-// LAYOUT
 @import './layout/header-page';
 @import './layout/header-menu';
 @import './layout/header-contacts';
